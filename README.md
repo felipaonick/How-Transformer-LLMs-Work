@@ -1,4 +1,4 @@
-##"How Transformer LLMs Work"
+How Transformer LLMs Work
 
 Questo mini corso offre una panoramica approfondita sull'architettura dei modelli di linguaggio di grandi dimensioni (LLM) basati su Transformer, coprendo i seguenti argomenti:
 
